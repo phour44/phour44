@@ -4,7 +4,7 @@ I'm **Ibrahim Fayomi**, a cybersecurity professional with hands-on experience in
 
 ## Professional Focus
 
-SOC monitoring and incident analysis | Identity and access management with Active Directory | Vulnerability assessment and risk analysis | Network security and traffic inspection | Threat detection and log analysis | Threat hunting using MITRE ATT&CK | Phishing defense and email forensics | Malware analysis and security investigations |AI in Cybersecurity for Automation, stimulating attack techniques, exploit logic and monitoring | log analysis & alert triage | detecting abnormal behaviour & stealthy attacks | supporting threat hunting & MITRE ATT&CK mapping | accelerating malware & phishing analysis.
+SOC monitoring & incident analysis | Identity & access management with Active Directory | Vulnerability assessment & risk analysis | Network security & traffic inspection | Threat detection & log analysis | Threat hunting using MITRE ATT&CK | Phishing defense, digital & email forensics | Malware analysis & security investigations | AI in Cybersecurity for Automation, stimulating attack techniques, exploit logic & monitoring | log analysis & alert triage | detecting abnormal behaviour & stealthy attacks | supporting threat hunting & MITRE ATT&CK mapping | accelerating malware & phishing analysis.
 
 ---
 
