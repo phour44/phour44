@@ -60,9 +60,9 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 01-Home-Lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 02-AD-deployment | Installing and hardening Active Directory | [View Repo](#) |
+| 03-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](https://github.com/phour44/Active-Directory-Security-Baseline) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
