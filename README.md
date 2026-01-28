@@ -43,7 +43,7 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 
 ---
 
-## Tools & Skills
+## Tools
 
 ### Network and scanning tools
 <div>
@@ -122,13 +122,13 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 
 ## Contact
 
-**<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />:** 
+**<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />** 
 <https://www.linkedin.com/in/fayomi31/>
 
-**<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />:** 
+**<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />** 
 <fayomiibrahim44@gmail.com>, <fayomiibrahim44@phourglobal.com>
 
-**<img src="https://img.shields.io/badge/Website-Visit_Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />:**
+**<img src="https://img.shields.io/badge/Website-Visit_Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />**
 <www.phourglobal.com>, <www.defcysops.com>
 
 ---
