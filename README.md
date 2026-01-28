@@ -59,11 +59,10 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 - Scripting and Automation for Threat Mitigation
 
 ## Certifications
+<div>
 <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-0066A1?style=for-the-badge&logo=isc2&logoColor=white" />
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-000000?style=for-the-badge&logo=hackthebox&logoColor=green" />
-<img src="https://cdn.simpleicons.org/eccouncil/1F3C88" />
-
-
+<img src="https://img.shields.io/badge/CHFI-Computer_Hacking_Forensic_Investigator-1F3C88?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 </div>
 ---
 
