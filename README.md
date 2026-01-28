@@ -13,7 +13,6 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
 
-
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
 
@@ -42,27 +41,61 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 - **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
 - **Malicious PDF Analysis** – Payload extraction and script dissection
 
-
-
 ---
 
 ## Tools & Skills
 
-- VirtualBox, VMware, AWS Free Tier
-- Wireshark, Nmap, Nessus, Nikto, sqlmap
-- Wazuh, Suricata, Elastic Stack, Splunk
-- Kali Linux, Windows Server, Ubuntu, pfSense
-- Git, GitHub, Markdown documentation
+### Network and scanning tools
+<div>
+  <img src="https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Network_Scanner-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-Vulnerability_Scanner-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nikto-Web_Scanner-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sqlmap-SQL_Injection_Testing-red?style=for-the-badge" />
+</div>
+
+### Security Monitoring and SIEM
+<div>
+  <img src="https://img.shields.io/badge/Wazuh-Security_Monitoring-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-IDS%2FIPS-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Stack-SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoftsentinel&logoColor=white" />
+</div>
+
+### Operating Systems and Firewall
+<div>
+  <img src="https://img.shields.io/badge/Kali_Linux-Offensive_Security-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-Firewall%2FRouter-212121?style=for-the-badge" />
+</div>
+
+### Cloud
+<div>
+  <img src="https://img.shields.io/badge/Amazon_AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
+
+## Skills
 - SIEM Implementation and Log Analysis
 - Network Traffic Monitoring and Attack Detection
 - Incident Response Planning and Execution
 - Scripting and Automation for Threat Mitigation
+- Git, GitHub, Markdown documentation
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-0066A1?style=for-the-badge&logo=isc2&logoColor=white" />
+  
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-000000?style=for-the-badge&logo=hackthebox&logoColor=green" />
+
 <img src="https://img.shields.io/badge/CHFI-Computer_Hacking_Forensic_Investigator-1F3C88?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+
+<img src="https://img.shields.io/badge/IBM-Cybersecurity_Certification-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cisco-Junior_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Aviatrix-ACE_Multicloud_Network_Associate-2E6BD9?style=for-the-badge&logo=aviatrix&logoColor=white" />
 </div>
 ---
 
@@ -89,9 +122,14 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 
 ## Contact
 
-- **<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />:** <https://www.linkedin.com/in/fayomi31/>
-- **<img src="https://img.shields.io/badge/Email-ibrahimayomidefayomi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />:** <fayomiibrahim44@gmail.com>, <fayomiibrahim44@phourglobal.com>
-- **<img src="https://img.shields.io/badge/Website-phourglobal.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />** <www.phourglobal.com>, <www.defcysops.com>
+**<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />:** 
+<https://www.linkedin.com/in/fayomi31/>
+
+**<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />:** 
+<fayomiibrahim44@gmail.com>, <fayomiibrahim44@phourglobal.com>
+
+**<img src="https://img.shields.io/badge/Website-Visit_Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />:**
+<www.phourglobal.com>, <www.defcysops.com>
 
 ---
 
