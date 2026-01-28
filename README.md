@@ -79,7 +79,8 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 
 ## Contact
 
-- **LinkedIn:** <www.linkedin.com/in/fayomi31>  
+<a href="https://www.linkedin.com/in/fayomi31/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 - **Email:** <fayomiibrahim44@gmail.com>, <fayomiibrahim44@phourglobal.com>
 - **Website** <www.phourglobal.com>, <www.defcysops.com.
 
