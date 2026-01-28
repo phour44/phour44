@@ -53,7 +53,15 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 - Wazuh, Suricata, Elastic Stack, Splunk
 - Kali Linux, Windows Server, Ubuntu, pfSense
 - Git, GitHub, Markdown documentation
+- SIEM Implementation and Log Analysis
+- Network Traffic Monitoring and Attack Detection
+- Incident Response Planning and Execution
+- Scripting and Automation for Threat Mitigation
 
+## Certifications
+<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-0066A1?style=for-the-badge&logo=isc2&logoColor=white" />
+
+</div>
 ---
 
 ## Featured Repositories
@@ -79,10 +87,9 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/fayomi31/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+- **LinkedIn:** <https://www.linkedin.com/in/fayomi31/>
 - **Email:** <fayomiibrahim44@gmail.com>, <fayomiibrahim44@phourglobal.com>
-- **Website** <www.phourglobal.com>, <www.defcysops.com.
+- **Website** <www.phourglobal.com>, <www.defcysops.com>
 
 ---
 
