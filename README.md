@@ -99,11 +99,11 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 </div>
 ---
 
-## Featured Repositories
+## Featured Project Repositories
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-Home-Lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-Cybersecurity Home-Lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/phour44/Cybesecurity-Lab-Setup) |
 | 02-AD-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/phour44/Active-Directory-Security-Baseline) |
 | 03-AWS Deployment | Configuring and hardening Cloud console in AWS | [View Repo](#) |
 | 04-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
