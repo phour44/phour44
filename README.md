@@ -16,6 +16,10 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
 
+### Cloud Security & Data Protection
+- **AWS Security Baseline Implementation** – IAM, S3 encryption, EC2 security groups, and CloudTrail monitoring
+- **Event-Driven Security Automation** – SNS alerting pipeline for high-risk API calls and configuration changes
+
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
 - **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus, and Nikto
