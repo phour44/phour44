@@ -132,7 +132,7 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 | 02-AD-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/phour44/Active-Directory-Security-Baseline) |
 | 03-AWS Deployment | Configuring and hardening Cloud console in AWS | [View Repo](https://github.com/phour44/AWS-Cloud-Security-Baseline) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/phour44/Information-Security-Policy-Framework) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo]((https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis)) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis) |
 | 06-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
 | 07-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 09-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
