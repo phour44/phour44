@@ -132,11 +132,11 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 | 02-AD-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/phour44/Active-Directory-Security-Baseline) |
 | 03-AWS Deployment | Configuring and hardening Cloud console in AWS | [View Repo](https://github.com/phour44/AWS-Cloud-Security-Baseline) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/phour44/Information-Security-Policy-Framework) |
-| 05-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 06-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
-| 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 09-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo]((https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis)) |
+| 06-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 07-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 09-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 09-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
