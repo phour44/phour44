@@ -143,6 +143,13 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
+
+
+## Other Project Repositories
+| Folder | Description | Link |
+|--------|-------------|------|
+| 01-static-malware-analysis | (njRAT) | [View Repo](https://github.com/phour44/Static-Malware-Analysis-on-a-Suspicious-File) |
+
 ---
 
 ## Contact
