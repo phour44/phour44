@@ -135,11 +135,11 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis) |
 | 06-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/phour44/Mitre-Attck-Threat-Hunting) |
 | 07-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/phour44/Phishing-Campaign-Simulation-and-Analysis) |
-| 08-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 09-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 10-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 08-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/phour44/Linux-Access-Control-and-Permission-Audit) |
+| 09-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 10-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 11-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 12-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
