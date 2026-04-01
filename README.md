@@ -149,6 +149,7 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-static-malware-analysis | (njRAT) | [View Repo](https://github.com/phour44/Static-Malware-Analysis-on-a-Suspicious-File) |
+| 02-ARP Spoofing and Packet Sniffing Attack | [View Repo](#) |
 
 ---
 
