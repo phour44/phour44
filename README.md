@@ -1,6 +1,14 @@
 # Ibrahim Fayomi - **Cybersecurity Analyst | SOC Analyst | AI Security Engineer**
 
-I'm **Ibrahim Fayomi**, a cybersecurity professional with hands-on experience in SOC operations, threat detection, vulnerability management, continuous security monitoring, AI security engineering, and defensive security. I work across cloud and on-premises environments, focusing on visibility, detection, identity security, and risk reduction. My work encompasses the entire security lifecycle: I design and harden systems, monitor and investigate threats, assess risk, and enhance detection based on real-world attack behavior. I approach security from a blue team perspective, with practical exposure to controlled offensive simulations used strictly to strengthen defense and response. This repository documents how I think, build, monitor, and secure systems in ways that reflect real enterprise security work.
+I'm **Ibrahim Fayomi**, I work as a cybersecurity analyst, a cybersecurity professional with hands-on experience in SOC operations, threat detection, vulnerability management, continuous security monitoring, AI security engineering, and defensive security. Over the years, I have learned how systems actually work. I trace packets, analyze logs, harden infrastructure, study attack paths, and understand how one weak configuration can compromise an entire environment. I secure systems against real-world threats, including cross-site scripting, privilege escalation, phishing, credential abuse, lateral movement, and distributed denial of service attacks. I monitor suspicious traffic, investigate abnormal behaviour, secure identities and access controls, and respond to incidents before they become disasters.  
+
+The internet transfers massive volumes of data every minute across networks, cloud environments, APIs, enterprise applications, authentication systems, and critical infrastructure. Every request, transaction, authentication event, and packet depends on systems operating securely and reliably. This requires engineering, monitoring, precision, and constant vigilance from cybersecurity professionals like myself. I make sure packets move securely, encrypted, and unsniffed across networks. I keep enterprise infrastructure available, systems protected, and data secured at rest and in transit against real threats. I make sure one bad configuration does not disrupt or collapse an entire business. I make sure threat actors do not move silently through networks unnoticed. I reduce incident response time with tested Incident Response and Business Continuity plans.
+
+I work from a defensive security perspective with offensive security capability. I legally perform penetration testing to identify vulnerabilities, risks, and attack vectors before attackers exploit them. I threat hunt for advanced persistent threats using industry-standard tools and methodologies. I also design and implement AI-assisted security measures using threat intelligence and behavioural analysis to detect vulnerabilities and indicators of compromise. 
+
+My experience includes SOC operations, threat hunting, SIEM analysis, vulnerability management, network traffic analysis, incident response, and AI-assisted security automation across cloud, hybrid, and on-premises environments.
+
+**
 
 ## Professional Focus
 
@@ -136,11 +144,11 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 | 06-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/phour44/Mitre-Attck-Threat-Hunting) |
 | 07-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/phour44/Phishing-Campaign-Simulation-and-Analysis) |
 | 08-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/phour44/Linux-Access-Control-and-Permission-Audit) |
-| 09-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 10-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 11-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 12-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 09-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/phour44/SQLi-DDoS-attack-Simulation) |
+| 10-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 11-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 12-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 13-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
 
