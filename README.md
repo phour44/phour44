@@ -145,12 +145,8 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 | 07-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/phour44/Phishing-Campaign-Simulation-and-Analysis) |
 | 08-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/phour44/Linux-Access-Control-and-Permission-Audit) |
 | 09-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/phour44/SQLi-DDoS-attack-Simulation) |
-| 10-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 10-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/phour44/Malware-Analysis) |
 | 11-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 12-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 13-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-
 
 
 ## Other Project Repositories
