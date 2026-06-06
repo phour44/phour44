@@ -2,18 +2,18 @@
 
 **Cybersecurity Analyst · Security Architecture · Networking · Detection & AI Security Engineering**
 
-I am a cybersecurity, architecture, and networking professional — and I build security tools. I co-founded **Phour Global Limited / GuardWraith**, a cybersecurity tech-solutions firm, where I help architect AI-native security tooling alongside my analyst and engineering work.
+I am a cybersecurity, architecture, and networking professional, and I build security tools. I co-founded **Phour Global Limited / GuardWraith**, a cybersecurity tech-solutions firm, where I help architect AI-native security tooling alongside my analyst and engineering work.
 
-> **Open to opportunities** — SOC Analyst · Security Engineer · Detection Engineering · Threat Hunting · Incident Response.
+> **Open to opportunities** - SOC Analyst · Security Engineer · Detection Engineering · Threat Hunting · Incident Response.
 > 🌐 [phourglobal.com](https://www.phourglobal.com) &nbsp;·&nbsp; **CEH · CHFI · CC · CCT**
 
 ---
 
 ## What I do
 
-Over the years I have learned how systems actually work. I trace packets, analyze logs, harden infrastructure, study attack paths, and understand how one weak configuration can compromise an entire environment.
+Over the years, I have learned how systems actually work. I trace packets, analyse logs, harden infrastructure, study attack paths, and understand how one weak configuration can compromise an entire environment.
 
-I secure systems against real-world threats — including cross-site scripting, privilege escalation, phishing, credential abuse, lateral movement, and DDoS. I monitor suspicious traffic, investigate abnormal behaviour, secure identities and access controls, and respond to incidents before they become disasters.
+I secure systems against real-world threats, including cross-site scripting, privilege escalation, phishing, credential abuse, lateral movement, and DDoS. I monitor suspicious traffic, investigate abnormal behaviour, secure identities and access controls, and respond to incidents before they become disasters.
 
 Massive volumes of data move every minute across networks, clouds, APIs, applications, authentication systems, and critical infrastructure. Every request, transaction, authentication, and packet depends on systems operating securely and reliably. That requires engineering, monitoring, precision, and constant vigilance from cybersecurity professionals like myself.
 
