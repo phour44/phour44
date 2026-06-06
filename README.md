@@ -67,10 +67,44 @@ My experience spans SOC operations, threat hunting, SIEM analysis, vulnerability
 
 ## Tooling
 
-**SIEM & monitoring:** Splunk · Elastic Stack · Security Onion · Wazuh · Suricata
-**Offensive & analysis:** Nmap · Nessus · Nikto · Wireshark · Bettercap · sqlmap · IDA · PEStudio · Kali Linux
-**Platforms & code:** AWS · Active Directory · Windows Server · Linux · pfSense · Python · TypeScript · Bash
-**Frameworks & methodology:** MITRE ATT&CK · NIST · ISO 27001 · Incident Response & Business Continuity
+**SIEM & monitoring**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Security Onion](https://img.shields.io/badge/Security%20Onion-7C3AED?style=for-the-badge&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3268B0?style=for-the-badge&logo=wazuh&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF4136?style=for-the-badge&logoColor=white)
+
+**Offensive & analysis**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A98F?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-1F6FEB?style=for-the-badge&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-111111?style=for-the-badge&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-C00000?style=for-the-badge&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1A1A1A?style=for-the-badge&logoColor=white)
+![PEStudio](https://img.shields.io/badge/PEStudio-2D2D2D?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+**Platforms & code**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-1E6FBA?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Frameworks & methodology**
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-0B3D91?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-EE0000?style=for-the-badge&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-444444?style=for-the-badge&logoColor=white)
 
 ---
 
