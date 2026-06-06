@@ -146,7 +146,7 @@ SOC monitoring & incident analysis | Identity & access management with Active Di
 | 08-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/phour44/Linux-Access-Control-and-Permission-Audit) |
 | 09-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/phour44/SQLi-DDoS-attack-Simulation) |
 | 10-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/phour44/Malware-Analysis) |
-| 11-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 11-network-monitoring-splunk | Security Onion and Splunk dashboards | [View Repo](https://github.com/phour44/Network-monitoring-splunk) |
 
 
 ## Other Project Repositories
