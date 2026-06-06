@@ -5,7 +5,10 @@
 I am a cybersecurity, architecture, and networking professional, and I build security tools. I co-founded **Phour Global Limited / GuardWraith**, a cybersecurity tech-solutions firm, where I help architect AI-native security tooling alongside my analyst and engineering work.
 
 > **Open to opportunities** - SOC Analyst · Security Engineer · Detection Engineering · Threat Hunting · Incident Response.
-> 🌐 [phourglobal.com](https://www.phourglobal.com) &nbsp;·&nbsp; **CEH · CHFI · CC · CCT**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Fayomi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayomi31/)
+[![Website](https://img.shields.io/badge/Website-phourglobal.com-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.phourglobal.com)
+![Certifications](https://img.shields.io/badge/Certified-CEH%20·%20CHFI%20·%20CC%20·%20CCT-2EA043?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -110,8 +113,16 @@ My experience spans SOC operations, threat hunting, SIEM analysis, vulnerability
 
 ## Certifications
 
-Certified Ethical Hacker (**CEH**) · Computer Hacking Forensic Investigator (**CHFI**) · Certified in Cybersecurity (**CC**) · Certified Cybersecurity Technician (**CCT**)
+![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-B01F24?style=for-the-badge&labelColor=1A1A1A)
+![CHFI](https://img.shields.io/badge/CHFI-Computer%20Hacking%20Forensic%20Investigator-B01F24?style=for-the-badge&labelColor=1A1A1A)
+![CC](https://img.shields.io/badge/CC-Certified%20in%20Cybersecurity%20(ISC2)-00857C?style=for-the-badge&labelColor=1A1A1A)
+![CCT](https://img.shields.io/badge/CCT-Certified%20Cybersecurity%20Technician-B01F24?style=for-the-badge&labelColor=1A1A1A)
 
 ---
 
-📫 Reach me through **[phourglobal.com](https://www.phourglobal.com)**.
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayomi31/)
+[![Website](https://img.shields.io/badge/phourglobal.com-Visit-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.phourglobal.com)
+
+📫 Reach me through **[phourglobal.com](https://www.phourglobal.com)** or **[LinkedIn](https://www.linkedin.com/in/fayomi31/)**.
