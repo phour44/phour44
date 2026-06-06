@@ -30,41 +30,41 @@ My experience spans SOC operations, threat hunting, SIEM analysis, vulnerability
 
 ## Recent work & engineering focus
 
-- **AI-native SIEM & security automation** — architecting and building an AI-driven SIEM platform featuring a proprietary *Ghost Agent* for autonomous threat hunting and response.
-- **Cloud & infrastructure security** — IAM hardening, secure baselines, and monitoring across AWS and hybrid estates.
-- **Threat detection & engineering** — detection-as-code, behavioural analytics, and MITRE ATT&CK-aligned coverage.
-- **Offensive security & vulnerability management** — penetration testing, attack simulation, and risk-based remediation.
-- **Human risk & forensics** — phishing defence, email forensics, and malware analysis.
-- **AI-assisted SecOps** — using AI to accelerate triage, investigation, and detection of emerging threats.
+- **AI-native SIEM & security automation** - architecting and building an AI-driven SIEM platform featuring a proprietary *Ghost Agent* for autonomous threat hunting and response.
+- **Cloud & infrastructure security** - IAM hardening, secure baselines, and monitoring across AWS and hybrid estates.
+- **Threat detection & engineering** - detection-as-code, behavioural analytics, and MITRE ATT&CK-aligned coverage.
+- **Offensive security & vulnerability management** - penetration testing, attack simulation, and risk-based remediation.
+- **Human risk & forensics** - phishing defence, email forensics, and malware analysis.
+- **AI-assisted SecOps** - using AI to accelerate triage, investigation, and detection of emerging threats.
 
 ---
 
 ## Projects
 
 **Detection, monitoring & SIEM**
-- [Network Monitoring with Splunk](https://github.com/phour44/Network-monitoring-splunk) — dashboards, searches, and alerting on suspicious traffic
-- [Security Monitoring & Log Analysis](https://github.com/phour44/Security-Monitoring-and-Log-Analysis) — detection in Security Onion and Splunk
-- [MITRE ATT&CK Threat Hunting](https://github.com/phour44/Mitre-Attck-Threat-Hunting) — Navigator-driven hypotheses, queries, and detections
+- [Network Monitoring with Splunk](https://github.com/phour44/Network-monitoring-splunk) - dashboards, searches, and alerting on suspicious traffic
+- [Security Monitoring & Log Analysis](https://github.com/phour44/Security-Monitoring-and-Log-Analysis) - detection in Security Onion and Splunk
+- [MITRE ATT&CK Threat Hunting](https://github.com/phour44/Mitre-Attck-Threat-Hunting) - Navigator-driven hypotheses, queries, and detections
 
 **Identity, cloud & infrastructure hardening**
-- [Active Directory Security Baseline](https://github.com/phour44/Active-Directory-Security-Baseline) — domain controller hardening with baseline GPOs
-- [AWS Cloud Security Baseline](https://github.com/phour44/AWS-Cloud-Security-Baseline) — IAM, S3 encryption, security groups, CloudTrail monitoring
-- [Linux Access Control & Permission Audit](https://github.com/phour44/Linux-Access-Control-and-Permission-Audit) — misconfiguration and SUID review
-- [Cybersecurity Home Lab](https://github.com/phour44/cybersecurity-home-lab) — multi-VM lab (Windows, Linux, pfSense, Security Onion)
+- [Active Directory Security Baseline](https://github.com/phour44/Active-Directory-Security-Baseline) - domain controller hardening with baseline GPOs
+- [AWS Cloud Security Baseline](https://github.com/phour44/AWS-Cloud-Security-Baseline) - IAM, S3 encryption, security groups, CloudTrail monitoring
+- [Linux Access Control & Permission Audit](https://github.com/phour44/Linux-Access-Control-and-Permission-Audit) - misconfiguration and SUID review
+- [Cybersecurity Home Lab](https://github.com/phour44/cybersecurity-home-lab) - multi-VM lab (Windows, Linux, pfSense, Security Onion)
 
 **Offensive security & simulations**
-- [SQL Injection & DDoS Attack Simulation](https://github.com/phour44/SQLi-DDoS-attack-Simulation) — controlled exploitation and detection (sqlmap, slowloris)
-- [ARP Spoofing & Packet Sniffing (Bettercap)](https://github.com/phour44/ARP-Spoofing-and-Packet-Sniffing-Attack-Using-Bettercap) — MITM attack execution and defence
-- [Phishing Campaign Simulation & Analysis](https://github.com/phour44/Phishing-Campaign-Simulation-and-Analysis) — GoPhish metrics, awareness, and defence
+- [SQL Injection & DDoS Attack Simulation](https://github.com/phour44/SQLi-DDoS-attack-Simulation) - controlled exploitation and detection (sqlmap, slowloris)
+- [ARP Spoofing & Packet Sniffing (Bettercap)](https://github.com/phour44/ARP-Spoofing-and-Packet-Sniffing-Attack-Using-Bettercap) - MITM attack execution and defence
+- [Phishing Campaign Simulation & Analysis](https://github.com/phour44/Phishing-Campaign-Simulation-and-Analysis) - GoPhish metrics, awareness, and defence
 
 **Malware analysis & forensics**
-- [Static Malware Analysis on a Suspicious File](https://github.com/phour44/Static-Malware-Analysis-on-a-Suspicious-File) — PE headers, strings, dependencies (PEStudio, IDA)
-- [Malware Analysis](https://github.com/phour44/Malware-Analysis) — static and dynamic indicator extraction
-- [Email Security & Phishing Forensics](https://github.com/phour44/Email-Security-and-Phishing-Forensics) — header analysis with SPF, DKIM, DMARC
+- [Static Malware Analysis on a Suspicious File](https://github.com/phour44/Static-Malware-Analysis-on-a-Suspicious-File) - PE headers, strings, dependencies (PEStudio, IDA)
+- [Malware Analysis](https://github.com/phour44/Malware-Analysis) - static and dynamic indicator extraction
+- [Email Security & Phishing Forensics](https://github.com/phour44/Email-Security-and-Phishing-Forensics) - header analysis with SPF, DKIM, DMARC
 
 **Vulnerability & governance**
-- [Vulnerability Assessment & Exposure Analysis](https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis) — Nmap, Nessus, Nikto with CVSS-based risk treatment
-- [Information Security Policy Framework](https://github.com/phour44/Information-Security-Policy-Framework) — acceptable-use, password, and access-control policies
+- [Vulnerability Assessment & Exposure Analysis](https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis) - Nmap, Nessus, Nikto with CVSS-based risk treatment
+- [Information Security Policy Framework](https://github.com/phour44/Information-Security-Policy-Framework) - acceptable-use, password, and access-control policies
 
 ---
 
