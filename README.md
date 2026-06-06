@@ -30,7 +30,14 @@ My experience spans SOC operations, threat hunting, SIEM analysis, vulnerability
 
 ## Recent work & engineering focus
 
-- **AI-native SIEM & security automation** - architecting and building an AI-driven SIEM platform featuring a proprietary *Ghost Agent* for autonomous threat hunting and response.
+I design and build the products in the **[PhourGlobal](https://www.phourglobal.com)** security ecosystem (check them out):
+
+- **[GuardWraith](https://www.guardwraith.com)** - continuous-monitoring SOC platform: SIEM, SOAR, XDR, threat intelligence, and a proprietary *Ghost Agent* for autonomous threat hunting and response.
+- **[IdentityWraith](https://iasm.guardwraith.com)** - Identity Attack Surface Management (IASM): IGA, PAM, ITDR, and CIEM across human and machine identities.
+- **[ControlOps](https://controlops.guardwraith.com)** - continuous governance, risk, and compliance: controls, evidence, drift, and audit readiness.
+
+Alongside hands-on focus in:
+
 - **Cloud & infrastructure security** - IAM hardening, secure baselines, and monitoring across AWS and hybrid estates.
 - **Threat detection & engineering** - detection-as-code, behavioural analytics, and MITRE ATT&CK-aligned coverage.
 - **Offensive security & vulnerability management** - penetration testing, attack simulation, and risk-based remediation.
