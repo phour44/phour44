@@ -32,9 +32,9 @@ My experience spans SOC operations, threat hunting, SIEM analysis, vulnerability
 
 I design and build the products in the **[PhourGlobal](https://www.phourglobal.com)** security ecosystem (check them out):
 
-- **[GuardWraith](https://www.guardwraith.com)** - continuous-monitoring SOC platform: SIEM, SOAR, XDR, threat intelligence, and a proprietary *Ghost Agent* for autonomous threat hunting and response.
-- **[IdentityWraith](https://iasm.guardwraith.com)** - Identity Attack Surface Management (IASM): IGA, PAM, ITDR, and CIEM across human and machine identities.
-- **[ControlOps](https://controlops.guardwraith.com)** - continuous governance, risk, and compliance: controls, evidence, drift, and audit readiness.
+- **[GuardWraith](https://www.guardwraith.com)** - **Continuous-Monitoring SOC platform:** SIEM, SOAR, XDR, threat intel, & a proprietary *GhostAgent* for events and logs telemetry and autonomous threat hunting and response.
+- **[IdentityWraith](https://iasm.guardwraith.com)** - **Identity Attack Surface Management (IASM):** IGA, PAM, ITDR, and CIEM across human and machine identities.
+- **[ControlOps](https://controlops.guardwraith.com)** - **Continuous Governance, Risk, and Compliance:** controls, evidence, drift, and audit readiness.
 
 Alongside hands-on focus in:
 
