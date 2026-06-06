@@ -1,183 +1,61 @@
-# Ibrahim Fayomi - **Cybersecurity Analyst | SOC Analyst | AI Security Engineer**
+# Ibrahim A. Fayomi
 
-I'm **Ibrahim Fayomi**, I work as a cybersecurity analyst, a cybersecurity professional with hands-on experience in SOC operations, threat detection, vulnerability management, continuous security monitoring, AI security engineering, and defensive security. Over the years, I have learned how systems actually work. I trace packets, analyze logs, harden infrastructure, study attack paths, and understand how one weak configuration can compromise an entire environment. I secure systems against real-world threats, including cross-site scripting, privilege escalation, phishing, credential abuse, lateral movement, and distributed denial of service attacks. I monitor suspicious traffic, investigate abnormal behaviour, secure identities and access controls, and respond to incidents before they become disasters.  
+**Founder, PHOUR GLOBAL LTD — building AI-native security platforms.**
+SOC analyst · threat hunter · detection & AI security engineer. I design and operate the systems that detect, investigate, and respond to threats — from endpoint telemetry to identity to compliance.
 
-The internet transfers massive volumes of data every minute across networks, cloud environments, APIs, enterprise applications, authentication systems, and critical infrastructure. Every request, transaction, authentication event, and packet depends on systems operating securely and reliably. This requires engineering, monitoring, precision, and constant vigilance from cybersecurity professionals like myself. I make sure packets move securely, encrypted, and unsniffed across networks. I keep enterprise infrastructure available, systems protected, and data secured at rest and in transit against real threats. I make sure one bad configuration does not disrupt or collapse an entire business. I make sure threat actors do not move silently through networks unnoticed. I reduce incident response time with tested Incident Response and Business Continuity plans.
-
-I work from a defensive security perspective with offensive security capability. I legally perform penetration testing to identify vulnerabilities, risks, and attack vectors before attackers exploit them. I threat hunt for advanced persistent threats using industry-standard tools and methodologies. I also design and implement AI-assisted security measures using threat intelligence and behavioural analysis to detect vulnerabilities and indicators of compromise. 
-
-My experience includes SOC operations, threat hunting, SIEM analysis, vulnerability management, network traffic analysis, incident response, and AI-assisted security automation across cloud, hybrid, and on-premises environments.
-
-**
-
-## Professional Focus
-
-SOC monitoring & incident analysis | Identity & access management with Active Directory | Vulnerability assessment & risk analysis | Network security & traffic inspection | Threat detection & log analysis | Threat hunting using MITRE ATT&CK | Phishing defense, digital & email forensics | Malware analysis & security investigations | AI in Cybersecurity for Automation, stimulating attack techniques, exploit logic & monitoring | log analysis & alert triage | detecting abnormal behaviour & stealthy attacks | supporting threat hunting & MITRE ATT&CK mapping | accelerating malware & phishing analysis.
+🌐 [phourglobal.com](https://www.phourglobal.com) &nbsp;·&nbsp; CEH · CHFI · CC · CCT
 
 ---
 
-## 🛡 Project Highlights
+## What I'm building — the PhourGlobal platform
 
-### Lab Foundations
-- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
+I'm building a unified, AI-native security ecosystem under **PHOUR GLOBAL LTD** — one platform across security operations, identity, and governance.
 
-### Identity & Access Security
-- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+| Product | What it does |
+|---|---|
+| **GuardWraith** — [guardwraith.com](https://www.guardwraith.com) | AI-native SOC: SIEM, SOAR, XDR, threat intel, and the Ghost Agent endpoint sensor. |
+| **IdentityWraith** — [iasm.guardwraith.com](https://iasm.guardwraith.com) | Identity attack surface management — IGA, PAM, ITDR, CIEM across human and machine identities. |
+| **ControlOps** — [controlops.guardwraith.com](https://controlops.guardwraith.com) | Continuous governance, risk & compliance — controls, evidence, drift, and audit readiness. |
 
-### Cloud Security & Data Protection
-- **AWS Security Baseline Implementation** – IAM, S3 encryption, EC2 security groups, and CloudTrail monitoring
-- **Event-Driven Security Automation** – SNS alerting pipeline for high-risk API calls and configuration changes
-
-### Vulnerability & Risk Management
-- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
-- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus, and Nikto
-- **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
-
-### Detection & Monitoring
-- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
-- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
-- **Suricata IDS Deployment** – Signature-based intrusion detection
-- **Honeypot Deployment** – Capturing and analysing attacker behaviour
-
-### Threat Hunting & Framework Mapping
-- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
-
-### Social Engineering Defence
-- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
-- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
-
-### Offensive Security Simulations
-- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
-
-### Malware & Exploit Analysis
-- **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
-- **Malicious PDF Analysis** – Payload extraction and script dissection
+*Source for the commercial platform is private. Architecture and demos available on request.*
 
 ---
 
-## Tools
+## Focus areas
 
-### Network and scanning tools
-
-  <img src="https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Nmap-Network_Scanner-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Nessus-Vulnerability_Scanner-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Nikto-Web_Scanner-black?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/sqlmap-SQL_Injection_Testing-red?style=for-the-badge" />
-
-
-### Security Monitoring and SIEM
-
-  <img src="https://img.shields.io/badge/Wazuh-Security_Monitoring-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Suricata-IDS%2FIPS-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Elastic_Stack-SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoftsentinel&logoColor=white" />
-
-
-### Operating Systems and Firewall
-
-  <img src="https://img.shields.io/badge/Kali_Linux-Offensive_Security-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Windows_Server-Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/pfSense-Firewall%2FRouter-212121?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Windows-Operating_System-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/macOS-Operating_System-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Google_Cloud-Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Microsoft_Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
-
-
-### Cloud
-
-  <img src="https://img.shields.io/badge/Amazon_AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  
-
-
-## Skills
-- SIEM Implementation and Log Analysis
-- Network Traffic Monitoring and Attack Detection
-- Incident Response Planning and Execution
-- Scripting and Automation for Threat Mitigation
-- Git, GitHub, Markdown documentation
-
-## Certifications
-
-<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-0066A1?style=for-the-badge&logo=isc2&logoColor=white" />
-  
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-000000?style=for-the-badge&logo=hackthebox&logoColor=green" />
-
-<img src="https://img.shields.io/badge/CHFI-Computer_Hacking_Forensic_Investigator-1F3C88?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-
-<img src="https://img.shields.io/badge/IBM-Cybersecurity_Certification-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cisco-Junior_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Aviatrix-ACE_Multicloud_Network_Associate-2E6BD9?style=for-the-badge&logo=aviatrix&logoColor=white" />
+`SOC operations & incident response` · `Detection engineering & MITRE ATT&CK` · `Threat hunting` · `SIEM & log analysis` · `Vulnerability & risk management` · `Identity & access (Active Directory, IAM)` · `Cloud security (AWS)` · `Malware analysis & DFIR` · `Phishing defense & email forensics` · `AI for security automation`
 
 ---
 
-## Featured Project Repositories
+## Selected hands-on projects
 
-| Folder | Description | Link |
-|--------|-------------|------|
-| 01-Cybersecurity Home-Lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/phour44/Cybesecurity-Lab-Setup) |
-| 02-AD-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/phour44/Active-Directory-Security-Baseline) |
-| 03-AWS Deployment | Configuring and hardening Cloud console in AWS | [View Repo](https://github.com/phour44/AWS-Cloud-Security-Baseline) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/phour44/Information-Security-Policy-Framework) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis) |
-| 06-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/phour44/Mitre-Attck-Threat-Hunting) |
-| 07-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/phour44/Phishing-Campaign-Simulation-and-Analysis) |
-| 08-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/phour44/Linux-Access-Control-and-Permission-Audit) |
-| 09-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/phour44/SQLi-DDoS-attack-Simulation) |
-| 10-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/phour44/Malware-Analysis) |
-| 11-network-monitoring-splunk | Security Onion and Splunk dashboards | [View Repo](https://github.com/phour44/Network-monitoring-splunk) |
+**Detection & monitoring**
+- [Network Monitoring with Splunk](https://github.com/phour44/Network-monitoring-splunk) — dashboards, searches, and alerting on suspicious traffic
+- [Security Monitoring & Log Analysis](https://github.com/phour44/Security-Monitoring-and-Log-Analysis) — detection in Security Onion + Splunk
+- [MITRE ATT&CK Threat Hunting](https://github.com/phour44/Mitre-Attck-Threat-Hunting) — Navigator-driven hypotheses, queries, detections
 
+**Identity, cloud & hardening**
+- [Active Directory Security Baseline](https://github.com/phour44/Active-Directory-Security-Baseline) — domain controller hardening with baseline GPOs
+- [AWS Cloud Security Baseline](https://github.com/phour44/AWS-Cloud-Security-Baseline) — IAM, S3 encryption, security groups, CloudTrail
+- [Linux Access Control & Permission Audit](https://github.com/phour44/Linux-Access-Control-and-Permission-Audit) — misconfiguration & SUID review
 
-## Other Project Repositories
-| Folder | Description | Link |
-|--------|-------------|------|
-| 01-static-malware-analysis | (njRAT) | [View Repo](https://github.com/phour44/Static-Malware-Analysis-on-a-Suspicious-File) |
-| 02-ARP Spoofing and Packet Sniffing Attack | Bettercap | [View Repo](https://github.com/phour44/ARP-Spoofing-and-Packet-Sniffing-Attack-Using-Bettercap) |
+**Offensive & analysis**
+- [Static Malware Analysis](https://github.com/phour44/Static-Malware-Analysis-on-a-Suspicious-File) — PE headers, strings, dependencies (PEStudio, IDA)
+- [Vulnerability Assessment & Exposure Analysis](https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis) — Nmap, Nessus, Nikto + CVSS risk treatment
+- [Phishing & Email Forensics](https://github.com/phour44/Email-Security-and-Phishing-Forensics) — SPF/DKIM/DMARC analysis
+
+**Governance**
+- [Information Security Policy Framework](https://github.com/phour44/Information-Security-Policy-Framework) — acceptable-use, password, access-control policies
 
 ---
 
-## Contact
+## Tooling
 
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-<https://www.linkedin.com/in/fayomi31/>
-
-
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-
-<fayomiibrahim44@gmail.com>, <fayomiibrahim44@phourglobal.com>
-
-
-<img src="https://img.shields.io/badge/Website-Visit_Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
-<www.phourglobal.com>, <www.defcysops.com>
+**SIEM / monitoring:** Splunk · Elastic · Security Onion · Wazuh · Suricata
+**Offensive / analysis:** Nmap · Nessus · Nikto · Wireshark · Bettercap · IDA · PEStudio · Kali
+**Platforms & code:** AWS · Active Directory · Windows/Linux · pfSense · Python · TypeScript · Bash
+**Frameworks:** MITRE ATT&CK · NIST · ISO 27001
 
 ---
 
-> “Cybersecurity is not only a discipline, but a responsibility, passion, and constant learning.”
-
-Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star.
-
-
-
+📫 Reach me through **[phourglobal.com](https://www.phourglobal.com)**.
