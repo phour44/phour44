@@ -2,7 +2,7 @@
 
 **Cybersecurity Analyst · Security Architecture · Networking · Detection & AI Security Engineering**
 
-I am a cybersecurity, architecture, and networking professional, and I build security tools. I co-founded **Phour Global Limited / GuardWraith**, a cybersecurity tech-solutions firm, where I help architect AI-native security tooling alongside my analyst and engineering work.
+I am a cybersecurity analyst, architecture, and networking professional, and I build security tools. I co-founded **Phour Global Limited / GuardWraith**, a cybersecurity tech-solutions firm, where I help architect AI-native security tooling alongside my analyst and engineering work.
 
 > **Open to opportunities** - SOC Analyst · Security Engineer · Detection Engineering · Threat Hunting · Incident Response.
 
