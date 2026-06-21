@@ -71,6 +71,7 @@ Alongside hands-on focus in:
 
 **Vulnerability & governance**
 - [Vulnerability Assessment & Exposure Analysis](https://github.com/phour44/Vulnerability-Assessment-and-Exposure-Analysis) - Nmap, Nessus, Nikto with CVSS-based risk treatment
+- [Cloud Vulnerability Management (AWS + Prowler)](https://github.com/phour44/Vulnerability-mgt-cloud-asset-aws--prowler) - Prowler ThreatScore assessment of AWS assets, 5x5 cyber risk register, and prioritized remediation plan
 - [Information Security Policy Framework](https://github.com/phour44/Information-Security-Policy-Framework) - acceptable-use, password, and access-control policies
 
 ---
@@ -92,6 +93,7 @@ Alongside hands-on focus in:
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00A98F?style=for-the-badge&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-1F6FEB?style=for-the-badge&logoColor=white)
+![Prowler](https://img.shields.io/badge/Prowler-3DDC97?style=for-the-badge&logoColor=white)
 ![Bettercap](https://img.shields.io/badge/Bettercap-111111?style=for-the-badge&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/sqlmap-C00000?style=for-the-badge&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1A1A1A?style=for-the-badge&logoColor=white)
