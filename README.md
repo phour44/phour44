@@ -4,7 +4,7 @@
 
 I am a cybersecurity analyst, SOC analyst, and networking professional, and I build security tools. I co-founded **Phour Global Limited / GuardWraith**, a cybersecurity tech-solutions firm, where I help architect AI-native security tooling alongside my analyst and engineering work.
 
-> **Open to opportunities** - SOC Analyst · Security Engineer · Detection Engineering · Threat Hunting · Incident Response.
+> **Open to opportunities** - Cybersecurity Analyst roles · SOC Analyst roles · Security Engineer roles · Detection Engineering roles · Threat Hunting roles· Incident Response roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Fayomi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayomi31/)
 [![Website](https://img.shields.io/badge/Website-phourglobal.com-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.phourglobal.com)
