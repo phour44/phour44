@@ -49,6 +49,7 @@ Alongside hands-on focus in:
 ## Projects
 
 **Detection, monitoring & SIEM**
+- [LogJammer - Windows Event Log Analysis (HTB Sherlock)](https://github.com/phour44/htb-sherlock-logjammer) - Splunk-based DFIR investigation of a compromised workstation; reconstructed the attacker timeline from raw EVTX logs with a formal technical report
 - [Network Monitoring with Splunk](https://github.com/phour44/Network-monitoring-splunk) - dashboards, searches, and alerting on suspicious traffic
 - [Security Monitoring & Log Analysis](https://github.com/phour44/Security-Monitoring-and-Log-Analysis) - detection in Security Onion and Splunk
 - [MITRE ATT&CK Threat Hunting](https://github.com/phour44/Mitre-Attck-Threat-Hunting) - Navigator-driven hypotheses, queries, and detections
